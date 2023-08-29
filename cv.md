@@ -124,7 +124,8 @@ Here is an exhaustive list of relevant courses I have taken:
 <p style = "float:right;"><b>2023</b></p>
 
 **Summer Undergraduate Data Science (SUDS) Research Program Award**
-*Awarded to fund a summer research project for undergraduate students in data science field. ($7200 CAD)*
+
+* Awarded to fund a summer research project for undergraduate students in data science field. ($7200 CAD)
 
 &nbsp;
 
@@ -132,6 +133,7 @@ Here is an exhaustive list of relevant courses I have taken:
 
 
 **Dean’s List Scholar**
-*Awarded to students who had excellent GPA in the University*
+
+* Awarded to students who had excellent GPA in the University
 
 &nbsp;
