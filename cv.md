@@ -56,6 +56,7 @@ Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op 
 * Leveraged the **os module** in Python to create a program that seamlessly interacts with computer’s file system.
 * Used inheritance to design classes that share a common interface, allowing for code reusability and promoting a structured approach to object-oriented programming.
 
+&nbsp;
 
 [**Optimal Grouping Design**](https://github.com/Bilin22/Forming-Optimal-Groups)
 * Implemented a **Python** program to put students into optimal groups with respect to different criteria and survey data.
@@ -63,6 +64,7 @@ Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op 
 * Visualized the scores of groups created by different grouping algorithms, as well as some simple statistics about how well they do using side-by-side bar plots.
 * performed thorough **unit testing** on a complex program comprising multiple interacting classes.  
 
+&nbsp;
 
 [**Analysis of Hypertension & Low-Income Data in Toronto**](https://github.com/Bilin22/Hypertension-and-Low-Income)
 * Extracted effective hypertension & low-income data from the CSV file using **Python**.
@@ -70,6 +72,7 @@ Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op 
 * Utilized the **object-oriented programming** paradigm to implement functions. Additionally, designed comprehensive test cases for each function to ensure thorough testing and validate program functionality.
 * Drew conclusions regarding the correlation between hypertension rates and low-income rates on the neighborhood-level.
 * Practiced skills in using Python and relevant libraries to conduct data analysis.
+
 
 
 ## Technical Skills
@@ -83,10 +86,16 @@ I am comfortable with the following languages/applications:
 * LaTeX
 * Microsoft Excel and Access
 
+
+
+
+
 ## Relevant Courses & Grades
 ----
 
 My transcript can be viewed [**here.**]({{ site.url }}/assets/transcript.pdf){:target="_blank"}
+
+&nbsp;
 
 Here is an exhaustive list of relevant courses I have taken:
 * MAT135 (Calculus I)
@@ -106,14 +115,23 @@ Here is an exhaustive list of relevant courses I have taken:
 * STA238 (Probability, Statistics and Data Analysis II)
 
 
+
+
+
+
 ## Honors and Awards
 ----
 <p style = "float:right;"><b>2023</b></p>
 
 **Summer Undergraduate Data Science (SUDS) Research Program Award**
-Awarded to fund a summer research project for undergraduate students in data science field. ($7200 CAD)
+*Awarded to fund a summer research project for undergraduate students in data science field. ($7200 CAD)*
+
+&nbsp;
 
 <p style = "float:right;"><b>2022, 2023</b></p>
 
+
 **Dean’s List Scholar**
-Awarded to students who had excellent GPA in the University
+*Awarded to students who had excellent GPA in the University*
+
+&nbsp;
