@@ -4,7 +4,7 @@ title: About Me
 ---
 # About Me
 
-![image](/assets/images/wholenewworld.jpg){:height="440px" width="710px"}
+![image](/assets/images/profile_photo.JPG){:height="440px" width="710px"}
 
 
 Hey! Thanks for taking the time to check me out.
