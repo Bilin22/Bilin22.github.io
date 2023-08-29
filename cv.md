@@ -8,21 +8,26 @@ My actual CV can be downloaded [**here.**]({{ site.url }}/assets/Resume_bnong.pd
 
 ## Education  
 ----
-<p style="float: right;"><b>Sep 2018 - June 2022</b></p>
+<p style="float: right;"><b>Sep 2021 - June 2025</b></p>
 **University of Toronto (St. George)**  
-HBSc. Mathematics and Statistics Specialist  
-**Campus Involvement:**  
-Events and Logistics Coordinator  
-*University of Toronto Vietnamese Students Association*  
-* Collaborated with 20 executives among 5 sub teams to facilitate and successfully organize 12 bi-weekly social, cultural, and academic events for 250+ club and community members
-* Responsible for micromanaging all detailed event logistics including event itineraries, inventory lists and executive roles to plan official social gatherings that incorporate safe and inclusive practices 
+Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op Program
+
+**GPA:**  3.96/4.00; **Average:** A+
+
 
 ## Experience
 ----
-<p style = "float:right;"><b>Oct 2022 - Present</b></p>
-**Bilingual Data Analyst**
+<p style = "float:right;"><b>Apr 2023 - Present</b></p>
 
-*Council of Ministers of Education, Canada*
+**Undergraduate Researcher with [Dr. Jochen Weile](https://www.linkedin.com/in/jochen-weile-7a665767/?originalSubdomain=ca) and [Prof. Fritz Roth](https://thedonnellycentre.utoronto.ca/faculty/frederick-roth)**
+
+*Lunenfeld-Tanenbaum Research Institute @Sinai Health, Toronto*
+
+* Re-processed the raw data underlying existing variant effect maps (atlas of the functional effects of all possible genetic variants on proteins) with the latest versions of the [TileSeqMave](https://github.com/rothlab/tileseqMave/tree/c60d66c92665467d38ab203b7b18a075e719be87), a bioinformatics pipeline for the calculation of fitness scores from sequencing reads and provides a suite of quality control visualizations.
+* Compiled benchmark sets of variants with known pathogenicity from online databases and literature for each map.
+* Evaluated the predictions made by different versions of variant effect maps using the precision-recall curve and use them to infer evidence strength for clinical interpretation by calculating the log-likelihood ratio for pathogenicity.
+* Gave recommendations for optimizing the implementation of TileseqMave pipelines based on analysis results.
+* Delivered presentation on the methodologies and key finding of this project to the entire lab and wrote a report. (My report can be viewed [**here.**]({{ site.url }}/assets/BCB330Report.pdf){:target="_blank"})
 
 &nbsp;
 
