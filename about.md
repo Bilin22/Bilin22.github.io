@@ -4,14 +4,11 @@ title: About Me
 ---
 # About Me
 
-![image](/assets/images/profile_photo.JPG){:height="440px" width="710px"}
 
-
-Hey! Thanks for taking the time to check me out.
-
-&nbsp;
-
-In summary, I am a new grad who is looking to learn more about the applications in the statistical sciences. I enjoy concepts such as regression analysis, probability theory, and ethical practice for statisticians. In the future, I hope to deepen this knowledge and use my skills to make the world a better place.
+In summary, I am a third-year undergraduate who is looking to learn more about the applications in statistical sciences as well as bioinformatics. 
+I enjoy learning concepts in stats such as regression analysis, survival analysis, and the imputation of missing data; I also 
+enjoy applying bioinformatics methods to interpreting genetic variants effects. Besides, I'm on my way to learn about making cool data visualizations in R.
+In the future, I hope to deepen this knowledge and use my skills to tackle more real-world problems.
 
 &nbsp;
 
