@@ -1,8 +1,8 @@
 ---
 layout: default
-title: David Pham's CV
+title: Bilin Nong's CV
 ---
-# David Pham's Digital Curriculum Vitae
+# Bilin Nong's Digital Curriculum Vitae
 This page contains all my work and project history. 
 
 If you would like to see my actual resume, you can view it [**here.**]({{ site.url }}/assets/resume_davidpham.pdf){:target="_blank"}
