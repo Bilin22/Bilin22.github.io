@@ -23,6 +23,7 @@ Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op 
 
 *Lunenfeld-Tanenbaum Research Institute @Sinai Health, Toronto*
 
+
 * Re-processed the raw data underlying existing variant effect maps (atlas of the functional effects of all possible genetic variants on proteins) with the latest versions of the [TileSeqMave](https://github.com/rothlab/tileseqMave/tree/c60d66c92665467d38ab203b7b18a075e719be87), a bioinformatics pipeline for the calculation of fitness scores from sequencing reads and provides a suite of quality control visualizations.
 * Compiled benchmark sets of variants with known pathogenicity from online databases and literature for each map.
 * Evaluated the predictions made by different versions of variant effect maps using the precision-recall curve and use them to infer evidence strength for clinical interpretation by calculating the log-likelihood ratio for pathogenicity.
@@ -31,120 +32,88 @@ Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op 
 
 &nbsp;
 
-<p style = "float:right;"><b>Jan 2022 - Apr 2022</b></p>
-**Research Assistant (Statistics Education Developer)** 
+<p style = "float:right;"><b>May 2023 - Present</b></p>
 
-*University of Toronto Department of Statistical Sciences* 
-* Planned and developed a statistics-themed virtual escape room for UofT's Department of Statistical Sciences (DoSS) to promote statistics education by using **R**, Zoom, and Gather Town
-* Created social media content around ethical practice and statistical literacy resulting in over 3500 impressions and 400 combined engagements from UofT's DoSS pages
-* Coordinated with professors and 29 other research assistants as a team to ensure smooth release of posts and delivery of the escape room
+**Research Trainee with [Prof. Kuan Liu](https://www.kuan-liu.com) and [Prof. Kevin Thorpe](https://www.dlsph.utoronto.ca/faculty-profile/thorpe-kevin-e/)** 
 
-<p style = "float:right;"><b>Aug 2021 - Apr 2022</b></p>
-**Peer Mentor (STA130 Mentorship Program)**
+*Dalla Lana School of Public Health, Toronto* 
 
-*University of Toronto Department of Statistical Sciences* 
-* Led one-on-one meetings with up to 60 mentees to talk about navigating life in university, as well as discussing their academic goals and objectives
-* Established positive and professional mentoring relationships with students, and maintained a 100% satisfaction rate
-* Collaborated with other mentors to help plan and facilitate social events to encourage community building and offer academic/career-oriented advice
 
-<p style = "float:right;"><b>May 2021 - Sep 2021</b></p>
-**Research Assistant**
+* Conducted a series of simulations in **R** statistical software to simulate Randomized Controlled Trials (RCTs) with different outcomes (continuous, binary, repeatedly measured) under different missing mechanisms.
+* Applied common missing data handling methods such as complete case analysis, imputations and inverse probability weighting to each simulated data set, and assessed their performance by employing a range of evaluation metrics.
+* Provided recommendations on how to deal with missing data in RCTs based on evaluation results.
+* Acquired in-depth knowledge and expertise in missing data methodologies, as well as the design and analysis of RCTs.
+* Merged and Wrangled simulated datasets to created data visualizations in **R** using **dplyr** and **ggplot2**.
+* Gave a poster presentation on research showcase Day. (My poster can be viewed [**here.**]({{ site.url }}/assets/SUDS_POSTER_new.pdf){:target="_blank"})
 
-*University of Toronto* 
-* Assisted a sociology professor in his research regarding work, stress, and health among Canadians, with special attention to the effects of the pandemic
-* Used **Python** libraries such as **NumPy** and **pandas**, as well as **Excel** to analyze, categorize, and visualize open-ended survey data with over 3000 entries about Canadians working from home during COVID-19
-* Visualized findings with statistical tables using **Excel** and **R**, and presented summaries in a concise manner
-
-<p style = "float: right;"><b>Jan 2018 - Nov 2019</b></p>
-**Tutor**
-* Planned and organized 1-1 tutoring sessions to high school students and people all over the world
-* Used a variety of teaching methods depending on individual student learning style, including online video calls, in-person lessons, and YouTube videos with ~700 cumulative views
-* Composed and produced classroom material, lesson plans, and mock homework/exams for topics such as intro to programming, discrete mathematics, and algebra
-
-<p style = "float: right;"><b>Apr 2019 - Aug 2019</b></p>
-**Lead Attendant/Housekeeper**  
-*Canadian National Exhibition*
-* Managed a team of 6 to help maintain the exhibition grounds by effectively communicating required tasks, coordinating with other sub teams, and upholding professionalism
-* Constantly switched between tasks including waste management, housekeeping, supervising, surveying the grounds, and helping customers
-* Reported daily progress and check-ins to lead supervisors in an organized fashion
-
-<p style = "float: right;"><b>May 2017 - Sep 2017</b></p>
-**Software Engineer (Co-op)**  
-*HipPOS Software Inc.*
-* Utilized quality assurance testing methodologies such as non-functional/acceptance testing to identify, document, and report bugs in the point-of-sale software
-* Worked with off-site teams to complete timely tests and ensure smooth product releases
-* Developed a web portal for cloud-based error logging/debugging by using the ASP.NET MVC design pattern in **C#**
 
 ## Projects 
 #### (Please click the hyperlinks to view my work.)
 ----
-[**Independent Readings Course – Ethical Practice for Statisticians**]({{ site.url }}/assets/final_report.pdf){:target="_blank"}
-* Was selected to be 1 of 3 students to explore the misuse of statistics in the scientific community and everyday media consumption
-* Wrote a 9-page educative piece using **RMarkdown** to spread awareness of statistical literacy and ethics, and used **Zotero + BiBTeX** to manage references
-* Conducted seminars and research presentations for cohort to synthesise findings and key ideas from a large range of sources
+[**Treemap Applications**](https://github.com/Bilin22/Treemaps)
+* Modelled different kinds of real-world hierarchical data using tree data structure in **Python**, such as modelling the file system, and modelling moves in chess games.
+* Implemented recursive operations on trees, and developed an algorithm to generate a geometric treemap visualization.
+* Leveraged the **os module** in Python to create a program that seamlessly interacts with computer’s file system.
+* Used inheritance to design classes that share a common interface, allowing for code reusability and promoting a structured approach to object-oriented programming.
 
-[**Statistical Analysis of Gender Parity (R)**]({{ site.url }}/assets/sta303_project.pdf){:target="_blank"}
-* Worked in a group of 4 for a school project as a consulting firm to assess gender parity in hiring, wages, and promotions for a fictitious software company
-* Merged and wrangled large datasets to create data visualizations and summaries using **dplyr** and **ggplot2**
-* Used judgment to choose appropriate generalized linear (mixed) models, checked their assumptions, and justified the selection in confidence intervals and significance testing
-* Balanced the workload as a team and created a seamless report with reproducible code by using **RMarkdown**
-* Liza Bolton (my past instructor for STA303) summarizes the project very well [**here:**](https://www.lizabolton.com/sta303_winter21_note){:target="_blank"}  
 
-**League of Legends Data Analysis (R, Python)**
-* Made a report trying to establish a relationship between rank in League of Legends and predictors such as total number of games played, wins, summoner level, etc. using linear regression
-* Used Python libraries NumPy and pandas to extract and organize over 1000 entries from the Riot API, and used R to conduct regression analyses
-* (The first version/attempt of my report has been completed, but I am refining the methods and procedures to make a second part.)
+[**Optimal Grouping Design**](https://github.com/Bilin22/Forming-Optimal-Groups)
+* Implemented a **Python** program to put students into optimal groups with respect to different criteria and survey data.
+* Compared different grouping algorithms including AlphaGrouper (groups student alphabetically), GreedyGrouper (forms groups using greedy algorithm), and SimulatedAnnealingGrouper (forms groups using simulated annealing algorithm).
+* Visualized the scores of groups created by different grouping algorithms, as well as some simple statistics about how well they do using side-by-side bar plots.
+* performed thorough **unit testing** on a complex program comprising multiple interacting classes.  
 
-[**Report on the Effect of Mortality Rate and Alcohol Consumption Using RDD (R)**]({{ site.url }}/assets/sta304_project.pdf){:target="_blank"}
-* Individual school project aimed to replicate and extend Carpenter's and Dobkin's 2009 study on mortality rate and alcohol consumption
-* Applied linear and quadratic regression discontinuity methods, using minimum legal drinking age as the threshold
-* Used **dplyr** and **tidyverse** to clean data, and **ggplot2** + **knitr** to visualize and present results.
 
-[**Data Visualization for COVID-19 Cases in Toronto (R)**]({{ site.url }}/assets/sta303_data-exploration_final.pdf){:target="_blank"}
-* Extensively used **tidyr** and **dplyr** libraries to wrangle, parse and transform real-time data from the City of Toronto website on COVID-19 cases in all 140 neighborhoods for a school assignment
-* Used ggplot to visualize daily cases, outbreak types, and thematic maps that illustrate the percentage of low-income families and the proportion of COVID-19 cases by region
+[**Analysis of Hypertension & Low-Income Data in Toronto**](https://github.com/Bilin22/Hypertension-and-Low-Income)
+* Extracted effective hypertension & low-income data from the CSV file using **Python**.
+* Performed data cleaning & standardization and selected suitable statistical methods for analysis.
+* Utilized the **object-oriented programming** paradigm to implement functions. Additionally, designed comprehensive test cases for each function to ensure thorough testing and validate program functionality.
+* Drew conclusions regarding the correlation between hypertension rates and low-income rates on the neighborhood-level.
+* Practiced skills in using Python and relevant libraries to conduct data analysis.
 
-[**Comparing Complex Multiple Linear Models for Toronto and Mississauga House Prices (R)**]({{ site.url }}/assets/sta302_a3.pdf){:target="_blank"}
-* Implemented multiple linear regression in order to help home buyers predict sale price of homes in the GTA for a school assignment
-* Analyzed diagnostic plots and used the Akaike/Bayesian information criterion for optimal probabilistic model selection
 
 ## Technical Skills
 ----
 I am comfortable with the following languages/applications:
-* Python (NumPy, pandas)
-* R (dplyr, tidyverse, ggplot2, knitr)
+* Python (Numpy, Pandas, Scikit, Matplotlib, SpaCy)
+* R (tidyverse, SimStudy, doParallel, survey)
 * Git/GitHub
 * HTML & CSS
-* SQL
-* Tableau
+* Unix Shell
+* LaTeX
 * Microsoft Excel and Access
 
-## Relevant Courses
+## Relevant Courses & Grades
 ----
+
+My transcript can be viewed [**here.**]({{ site.url }}/assets/transcript.pdf){:target="_blank"}
+
 Here is an exhaustive list of relevant courses I have taken:
-* CSC108 (Intro to Programming)
-* STA130 (Statistical Reasoning)
-* MAT137 (Calculus!)
-* CSC148 (Intro to Computer Science)
-* CSC165 (Mathematical Expression & Reasoning for Computer Science)
+* MAT135 (Calculus I)
+* MAT136 (Calculus II)
+* MAT235 (Multivariable Calculus)
 * MAT223 (Linear Algebra I)
-* MAT224 (Linear Algebra II)
-* MAT235 (Multivariable Calculus) _(I love you, Professor Leonard.)_
-* MAT244 (Ordinary Differential Equations)
-* MAT246 (Abstract Mathematics)
-* STA257 (Probability & Statistics 1)
-* STA261 (Probability & Statistics 2)
-* MAT301 (Groups and Symmetries)
-* STA302/1001 (Methods of Data Analysis I)
-* STA303/1002 (Methods of Data Analysis II)
-* STA304/1003 (Surveys, Sampling and Observational Data)
-* STA305/1004 (Design and Analysis of Experiments)
-* MAT334 (Complex Variables) _(I love you, Petra Bonfert Taylor and CrystalMath.)_
-* STA347 (Probability Theory I)
-* FSL421 (French IV)
-* STA437/2005 (Methods for Multivariate Data)
-* STA457/2202 (Time Series Analysis)
-* MAT337 (Intro to Real Analysis)
-* APM462 (Nonlinear Optimization)
-* STA442/2101 (Methods of Applied Statistics)
-* STA497 (Readings in Statistics) with Professor Liza Bolton. Thanks, Liza!!! :)
+* BIO130 (Molecular and Cell Biology)
+* BIO230 (From Genes to Organisms)
+* BCH242 (Intro Biochemistry)
+* BCB330 (Special Project in Bioinformatics)
+* HMB265 (General & Human Genetics)
+* CHM136 (Intro Organic Chem I)
+* CHM247 (Intro Organic Chem II)
+* CSC108 (Intro to Computer Programming)
+* CSC148 (Intro to Computer Science)
+* STA237 (Probability, Statistics and Data Analysis I)
+* STA238 (Probability, Statistics and Data Analysis II)
+
+
+## Honors and Awards
+----
+<p style = "float:right;"><b>2023</b></p>
+
+**Summer Undergraduate Data Science (SUDS) Research Program Award**
+Awarded to fund a summer research project for undergraduate students in data science field. ($7200 CAD)
+
+<p style = "float:right;"><b>2022, 2023</b></p>
+
+**Dean’s List Scholar**
+Awarded to students who had excellent GPA in the University
