@@ -12,26 +12,10 @@ In the future, I hope to deepen this knowledge and use my skills to tackle more 
 
 &nbsp;
 
-My hobbies include video games, cinematography/video editing, and making people smile.
+My hobbies include playing ukulele, listening to music (K-POP is my favourite genre!), and taking photos.
 
 &nbsp;
+Here is my favourite quote from [Different Seasons](https://stephenking.com/works/collection/different-seasons.html) by Stephen King:
 
-I enjoy playing League of Legends, Stardew Valley, Teamfight Tactics, Valorant, and many other games [**(check out my Steam profile here)**](https://steamcommunity.com/id/thegortisthebestrightnow/){:target="_blank"}.
-If you'd ever like to join my friends and I sometime, add me on Discord via TheGort#5051 (send me a message to let me know who you are first!).
-
-&nbsp;
-
-I also have a YouTube channel which you can check out [**here.**](https://www.youtube.com/channel/UCaaYCWSM01Ke6LqG100zg0A){:target="_blank"}  
-I haven't been posting as often as I'd like, but I hope to find the motivation to do so.  
-You'll find that I upload all sorts of content, ranging from video games, educational videos, reviews, and skits.
-
-&nbsp;
-
-If anybody ever wondered what I listen to, follow me on [**Spotify.**](https://open.spotify.com/user/6r2g75pi5l7e863bglv83pzj9?si=CZbhiKIdRq2NqdZcS2SdHQ){:target="_blank"}  
-I like listening to trap, pop, hip-hop, and k-pop every now and then.  
-My favorite artists are Playboi Carti, Silk Sonic, and EXO.  
-Favorite song right now: *Candy* by NCT Dream (originally by H.O.T).
-
-&nbsp;
-
-`It's truly a small, yet big world out there, folks. Enjoy the time we have.`
+`Some birds are not meant to be caged, that's all. Their feathers are too bright, their songs too sweet and wild. So you let them go, or when you open the cage to feed them they somehow fly out past you. And the part of you that knows it was wrong to imprison them in the first place rejoices, 
+but still, the place where you live is that much more drab and empty for their departure.`
