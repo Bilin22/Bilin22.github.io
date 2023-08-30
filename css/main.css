@@ -22,7 +22,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     font-size: 1.2rem;
-    color: #18a3c9;
+    color: #0ce3d2;
 }
 a:hover {
     text-decoration: underline;
@@ -42,7 +42,7 @@ footer {
     font-size: .8em;
 }
 
-ul { 
+ul {
     font-size: 1.5rem;
 	margin-top: 0.1em;
 	margin-bottom: 0.3em;
@@ -89,15 +89,15 @@ p {
 }
 
 @media screen and (max-width: 500px) {
-   
+
    * {
 	   font-size: 1.2rem;
    }
-   
+
    a {
 	   font-size: 0.9rem;
    }
-   
+
    h1 {
 	   font-size: 1.5rem;
    }
