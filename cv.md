@@ -2,7 +2,8 @@
 layout: default
 title: Bilin Nong's CV
 ---
-# Bilin Nong's Digital Curriculum Vitae
+
+<h1 style="text-align: center;">Bilin Nong's Digital Curriculum Vitae</h1>
 
 My actual CV can be downloaded [**here.**]({{ site.url }}/assets/Resume_bnong.pdf){:target="_blank"}
 

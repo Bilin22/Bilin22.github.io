@@ -2,8 +2,8 @@
 layout: default
 title: About Me
 ---
-# About Me
 
+<h1 style="text-align: center;">About Me</h1>
 
 In summary, I am a third-year undergraduate who is looking to learn more about the applications in statistical sciences as well as bioinformatics. 
 I enjoy learning concepts in stats such as regression, survival analysis, and the imputation of missing data; I also 
