@@ -12,7 +12,7 @@ My actual CV can be downloaded [**here.**]({{ site.url }}/assets/Resume_bnong.pd
 **University of Toronto (St. George)**  
 Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op Program
 
-**GPA:**  3.96/4.00; **Average:** A+
+**GPA:**  3.96/4.00;  **Average:** A+
 
 
 ## Experience
@@ -43,12 +43,12 @@ Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op 
 * Applied common missing data handling methods such as complete case analysis, imputations and inverse probability weighting to each simulated data set, and assessed their performance by employing a range of evaluation metrics.
 * Provided recommendations on how to deal with missing data in RCTs based on evaluation results.
 * Acquired in-depth knowledge and expertise in missing data methodologies, as well as the design and analysis of RCTs.
-* Merged and Wrangled simulated datasets to created data visualizations in **R** using **dplyr** and **ggplot2**.
+* Merged and wrangled simulated datasets to created data visualizations in **R** using **dplyr** and **ggplot2**.
 * Gave a poster presentation on research showcase Day. (My poster can be viewed [**here.**]({{ site.url }}/assets/SUDS_POSTER_new.pdf){:target="_blank"})
 
 
 ## Projects 
-#### (Please click the hyperlinks to view my work.)
+#### (Click the hyperlinks to view my work.)
 ----
 [**Treemap Applications**](https://github.com/Bilin22/Treemaps)
 * Modelled different kinds of real-world hierarchical data using tree data structure in **Python**, such as modelling the file system, and modelling moves in chess games.
@@ -125,7 +125,7 @@ Here is an exhaustive list of relevant courses I have taken:
 
 **Summer Undergraduate Data Science (SUDS) Research Program Award**
 
-* Awarded to fund a summer research project for undergraduate students in data science field. ($7200 CAD)
+* Awarded to fund a summer research project for undergraduate students in data science field.
 
 &nbsp;
 
