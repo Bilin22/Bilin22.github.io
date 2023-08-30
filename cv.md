@@ -22,7 +22,7 @@ Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op 
 
 **Undergraduate Researcher with [Dr. Jochen Weile](https://www.linkedin.com/in/jochen-weile-7a665767/?originalSubdomain=ca) and [Prof. Fritz Roth](https://thedonnellycentre.utoronto.ca/faculty/frederick-roth)**
 
-*Lunenfeld-Tanenbaum Research Institute @Sinai Health, Toronto*
+*[Lunenfeld-Tanenbaum Research Institute @Sinai Health, Toronto](https://www.lunenfeld.ca)*
 
 
 * Re-processed the raw data underlying existing variant effect maps (atlas of the functional effects of all possible genetic variants on proteins) with the latest versions of the [TileSeqMave](https://github.com/rothlab/tileseqMave/tree/c60d66c92665467d38ab203b7b18a075e719be87), a bioinformatics pipeline for the calculation of fitness scores from sequencing reads and provides a suite of quality control visualizations.
@@ -37,7 +37,7 @@ Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op 
 
 **Research Trainee with [Prof. Kuan Liu](https://www.kuan-liu.com) and [Prof. Kevin Thorpe](https://www.dlsph.utoronto.ca/faculty-profile/thorpe-kevin-e/)** 
 
-*Dalla Lana School of Public Health, Toronto* 
+*[Dalla Lana School of Public Health, Toronto](https://www.dlsph.utoronto.ca)* 
 
 
 * Conducted a series of simulations in **R** statistical software to simulate Randomized Controlled Trials (RCTs) with different outcomes (continuous, binary, repeatedly measured) under different missing mechanisms.
