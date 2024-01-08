@@ -49,30 +49,29 @@ Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op 
 
 
 ## Projects 
-#### (Click the hyperlinks to view my work.)
+
 ----
-[**Treemap Applications**](https://github.com/Bilin22/Treemaps)
-* Modelled different kinds of real-world hierarchical data using tree data structure in **Python**, such as modelling the file system, and modelling moves in chess games.
-* Implemented recursive operations on trees, and developed an algorithm to generate a geometric treemap visualization.
-* Leveraged the **os module** in Python to create a program that seamlessly interacts with computer’s file system.
-* Used inheritance to design classes that share a common interface, allowing for code reusability and promoting a structured approach to object-oriented programming.
+**Analysis of Sensory Factors \& Coffee Ratings**
+* Investigated the correlation between the overall ratings of a cup of coffee and sensory aspects of coffee plus the bean species by fitting a multiple linear regression (MLR) model using the data from Coffee Quality Institute.
+* Performed data analysis using R includes cleaning the raw data set, fitting the MLR model, checking the model assumptions via diagnostic plots, applying Box-Cox transformation to mitigate violated assumptions, conducting ANOVA and individual t test to check for significant linear relationship, and qualifying model goodness by a series of likelihood criteria.
+* Utilized the tidyverse and car packages in R for efficient data summary, data analysis and visualization, showcasing proficiency in programming using R statistical software.
+* Critically evaluated the model's limitations due to certain violations and the presence of problematic observations, demonstrating a thorough understanding of model reliability and data integrity.
 
 &nbsp;
 
-[**Optimal Grouping Design**](https://github.com/Bilin22/Forming-Optimal-Groups)
-* Implemented a **Python** program to put students into optimal groups with respect to different criteria and survey data.
-* Compared different grouping algorithms including AlphaGrouper (groups student alphabetically), GreedyGrouper (forms groups using greedy algorithm), and SimulatedAnnealingGrouper (forms groups using simulated annealing algorithm).
-* Visualized the scores of groups created by different grouping algorithms, as well as some simple statistics about how well they do using side-by-side bar plots.
-* performed thorough **unit testing** on a complex program comprising multiple interacting classes.  
+**Learning Management System Design**
+* Designed and implemented a schema for a learning management system database, specifically tailored to support the functionalities of MarkUs --- a web application for the submission and grading of student assignments.
+* Developed and executed complex SQL queries to facilitate data retrieval and analysis, demonstrating a deep understanding of relational database and SQL intricacies.
+* Embedded SQL queries into Python using psycopg2 library, showcasing the ability to integrate SQL with a high-level programming language for efficient data handling and manipulation.
+* Conducted testing and validation of database functionalities, ensuring accuracy and reliability of the data, and thereby facilitating insightful analytics for educational management and improvement.
 
 &nbsp;
 
-[**Analysis of Hypertension & Low-Income Data in Toronto**](https://github.com/Bilin22/Hypertension-and-Low-Income)
-* Extracted effective hypertension & low-income data from the CSV file using **Python**.
-* Performed data cleaning & standardization and selected suitable statistical methods for analysis.
-* Utilized the **object-oriented programming** paradigm to implement functions. Additionally, designed comprehensive test cases for each function to ensure thorough testing and validate program functionality.
-* Drew conclusions regarding the correlation between hypertension rates and low-income rates on the neighborhood-level.
-* Practiced skills in using Python and relevant libraries to conduct data analysis.
+**Analysis of Hypertension & Low-Income Data in Toronto**
+* Implemented data cleaning and standardization processes, selected appropriate statistical methods for analyzing the dataset.
+* Utilized the object-oriented programming paradigm to implement functions in Python and designed comprehensive test cases for each function to ensure validate program functionality.
+* Analyzed and identified significant correlations between hypertension rates and low-income levels at the neighborhood level in Toronto, providing valuable insights into public health and socio-economic dynamics.
+* Enhanced expertise in Python programming and data analysis libraries, demonstrating a strong foundation in data manipulation, statistical analysis, and result interpretation.
 
 
 
