@@ -51,7 +51,7 @@ Honours Bachelor of Science - Statistical Science & Bioinformatics - ASIP Co-op 
 ## Projects 
 
 ----
-**Analysis of Sensory Factors \& Coffee Ratings**
+**Analysis of Sensory Factors & Coffee Ratings**
 * Investigated the correlation between the overall ratings of a cup of coffee and sensory aspects of coffee plus the bean species by fitting a multiple linear regression (MLR) model using the data from Coffee Quality Institute.
 * Performed data analysis using R includes cleaning the raw data set, fitting the MLR model, checking the model assumptions via diagnostic plots, applying Box-Cox transformation to mitigate violated assumptions, conducting ANOVA and individual t test to check for significant linear relationship, and qualifying model goodness by a series of likelihood criteria.
 * Utilized the tidyverse and car packages in R for efficient data summary, data analysis and visualization, showcasing proficiency in programming using R statistical software.
@@ -102,6 +102,8 @@ Here is an exhaustive list of relevant courses I have taken:
 * MAT136 (Calculus II)
 * MAT235 (Multivariable Calculus)
 * MAT223 (Linear Algebra I)
+* MAT224 (Linear Algebra II)
+* MAT246 (Abstract Mathematics)
 * BIO130 (Molecular and Cell Biology)
 * BIO230 (From Genes to Organisms)
 * BCH242 (Intro Biochemistry)
@@ -111,8 +113,10 @@ Here is an exhaustive list of relevant courses I have taken:
 * CHM247 (Intro Organic Chem II)
 * CSC108 (Intro to Computer Programming)
 * CSC148 (Intro to Computer Science)
+* CSC343 (Intro to Databases)
 * STA237 (Probability, Statistics and Data Analysis I)
 * STA238 (Probability, Statistics and Data Analysis II)
+* STA302 (Methods of Data Analysis I)
 
 
 
